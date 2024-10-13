@@ -1,2 +1,2 @@
 # Hello world
->>>_I am developer_
+_I am developer_
